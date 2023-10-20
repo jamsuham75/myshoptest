@@ -98,7 +98,7 @@ function App() {
                 // .then()
                 // .catch()
 
-            }}>상품 더보기</button>
+            }}>더보기</button>
 
           </>
         }></Route>
