@@ -28,7 +28,7 @@ function App() {
         <Container>
           <Navbar.Brand href="/">Shop</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="/">홈</Nav.Link>
+            <Nav.Link href="/">홈으로</Nav.Link>
             <Nav.Link href="/about">about</Nav.Link>
             <Nav.Link href="/detail">Pricing</Nav.Link>
             <Nav.Link onClick={()=>{navigate(-1)}}>back</Nav.Link>
